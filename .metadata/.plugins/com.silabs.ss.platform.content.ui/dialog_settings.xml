@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<item value="500" key="DIALOG_WIDTH"/>
+	<item value="1|Segoe UI|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI" key="DIALOG_FONT_NAME"/>
+	<item value="400" key="DIALOG_HEIGHT"/>
+	<list key="addDescrsLocationHistory">
+		<item value="D:\DH\IotChal\gecko_sdk-gsdk_4.4\gecko_sdk-gsdk_4.4"/>
+		<item value="D:\DH\Lumi\Zigbee\SimplicityStudio\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v4.4"/>
+	</list>
+	<section name="removeConfirm">
+		<item value="532" key="DIALOG_WIDTH"/>
+		<item value="1|Segoe UI|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI" key="DIALOG_FONT_NAME"/>
+		<item value="196" key="DIALOG_HEIGHT"/>
+		<item value="51" key="DIALOG_X_ORIGIN"/>
+		<item value="159" key="DIALOG_Y_ORIGIN"/>
+	</section>
+</section>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="com.silabs.ss.framework.ide.project.core.cdtMbsProjectType">
+		<item value="COPY" key="settingImportModeOption"/>
+		<item value="com.silabs.ss.framework.ide.project.ui.exampleWizardType" key="projectTypeId"/>
+		<item value="false" key="filterTemplatesByPartSdk"/>
+		<item value="template.uc.com.silabs.sdk.stack.super:4.4.3._1076942770.app/framework/scenarios/z3/Z3Light/Z3Light.slcp" key="selectedTemplateId"/>
+		<item value="LINK" key="importOption"/>
+		<item value="true" key="filterTemplatesByToolchain"/>
+		<item value="false" key="showInternal"/>
+		<list key="fileLocationHistory">
+			<item value="D:\DH\Lumi\Zigbee\Slide\ZigbeeSED\ZigbeeSED"/>
+			<item value="D:\DH\Lumi\Zigbee\SW_ZB_V1_0_0\SW_ZB_V1_0_0"/>
+			<item value="D:\DH\Lumi\Zigbee\Slide\zigbeedevkit_1"/>
+		</list>
+		<list key="fileLocations">
+			<item value="D:\DH\Lumi\Zigbee\Slide\ZigbeeSED\ZigbeeSED"/>
+		</list>
+	</section>
+</section>

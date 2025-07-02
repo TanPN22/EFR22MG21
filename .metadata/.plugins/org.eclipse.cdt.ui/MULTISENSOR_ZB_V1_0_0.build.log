@@ -1,0 +1,8 @@
+08:49:49 **** Build of configuration GNU ARM v7.2.1 - Default for project MULTISENSOR_ZB_V1_0_0 ****
+make -j16 pre-build main-build 
+cmd //c 'D:\DH\Lumi\Zigbee\SimplicityStudio\SimplicityStudio\MyWorkspace\MULTISENSOR_ZB_V1_0_0/MULTISENSOR_ZB_V1_0_0-prebuild.bat' 'MULTISENSOR_ZB_V1_0_0' 'D:/DH/Lumi/Zigbee/SimplicityStudio/SimplicityStudio/MyWorkspace/MULTISENSOR_ZB_V1_0_0' '' 'D:\DH\Lumi\Zigbee\SimplicityStudio\SimplicityStudio\v4'
+make: Nothing to be done for `main-build'.
+ 
+
+08:50:05 Build Finished (took 15s.505ms)
+

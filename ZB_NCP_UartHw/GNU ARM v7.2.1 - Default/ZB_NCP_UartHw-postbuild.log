@@ -1,0 +1,2 @@
+INFO:root:Creation of 32 bit srec file: "D:/DH/Lumi/Zigbee/SimplicityStudio/SimplicityStudio/v4/developer/toolchains/gnu_arm/7.2_2017q4/bin/arm-none-eabi-objcopy" --srec-forceS3 -O srec "ZB_NCP_UartHw.axf" "ZB_NCP_UartHw.s37"
+INFO:root:Creation of gbl file: D:\DH\Lumi\Zigbee\SimplicityStudio\SimplicityStudio\v4\developer\adapter_packs\commander\commander.exe gbl create "ZB_NCP_UartHw.gbl" --app "ZB_NCP_UartHw.s37" --device EFR32MG21A010F512IM32

@@ -1,0 +1,8 @@
+09:09:32 **** Build of configuration GNU ARM v7.2.1 - Default for project Z3Light_ZBRouter ****
+make -j16 pre-build main-build 
+cmd //c 'D:\DH\Lumi\Zigbee\SimplicityStudio\SimplicityStudio\MyWorkspace\Z3Light_ZBRouter/Z3Light_ZBRouter-prebuild.bat' 'Z3Light_ZBRouter' 'D:/DH/Lumi/Zigbee/SimplicityStudio/SimplicityStudio/MyWorkspace/Z3Light_ZBRouter' '' 'D:\DH\Lumi\Zigbee\SimplicityStudio\SimplicityStudio\v4'
+make: Nothing to be done for `main-build'.
+ 
+
+09:09:42 Build Finished (took 9s.834ms)
+

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;MULTISENSOR_ZB_V1_0_0/Source/Mid/SI7020&apos; to &apos;TempHumi&apos;" description="Rename resource &apos;SI7020&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="Source/Mid/SI7020" name="TempHumi" stamp="1704163658144" updateReferences="true"/>
+</session>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project name="com.silabs.module.additional.pdm.com.silabs.ss.framework.project.core.noToolChain.stockConfig#com.silabs.ss.framework.project.core.noToolChain:0.0.0 - EFR32MG13P632F512GM48" partCompatibility=".*" toolchainCompatibility="com.silabs.ide.si32.iar com.silabs.ide.si32.gcc" sdkCompatibility="" propertyScope="project" contentRoot=".">
+  <folder name="CMSIS" partCompatibility=".*">
+    <file name="system_efr32mg13p.c" partCompatibility=".*" uri="studio:/sdk//platform/Device/SiliconLabs/EFR32MG13P/Source/system_efr32mg13p.c"/>
+  </folder>
+  <folder name="hal-config">
+    <file name="hal-config.h" uri="studio:/project/hal-config/hal-config.h"/>
+  </folder>
+  <file name="bootloader-slot-configuration.h" uri="studio:/project/bootloader-slot-configuration.h"/>
+  <file name="brd4159a_efr32mg13p632f512gm48.hwconf" uri="studio:/project/brd4159a_efr32mg13p632f512gm48.hwconf"/>
+  <file name="bootloader-callbacks.h" uri="studio:/project/bootloader-callbacks.h"/>
+  <file name="bootloader-callback-stubs.c" uri="studio:/project/bootloader-callback-stubs.c"/>
+  <file name="bootloader-callbacks.c" uri="studio:/project/bootloader-callbacks.c"/>
+  <file name="bootloader-configuration.h" uri="studio:/project/bootloader-configuration.h"/>
+  <file name="ZB_GeckoBootloader_efr32.eww" uri="studio:/project/ZB_GeckoBootloader_efr32.eww"/>
+  <file name="ZB_GeckoBootloader_efr32.ewd" uri="studio:/project/ZB_GeckoBootloader_efr32.ewd"/>
+  <file name="ZB_GeckoBootloader_efr32.ewp" uri="studio:/project/ZB_GeckoBootloader_efr32.ewp"/>
+  <file name="ZB_GeckoBootloader_postbuild.sh" uri="studio:/project/ZB_GeckoBootloader_postbuild.sh"/>
+  <includePath uri="studio:/project/"/>
+  <includePath uri="studio:/project/hal-config"/>
+  <includePath partCompatibility=".*" languageCompatibility="c asm" uri="studio:/sdk//platform/Device/SiliconLabs/EFR32MG13P/Include/"/>
+  <includePath uri="studio:/project/./hal-config"/>
+  <includePath uri="studio:/sdk/platform/bootloader/."/>
+  <includePath uri="studio:/sdk/platform/emdrv/common/inc"/>
+  <includePath uri="studio:/sdk/platform/emlib/inc"/>
+  <includePath uri="studio:/sdk/util/third_party/mbedtls/configs"/>
+  <includePath uri="studio:/sdk/util/third_party/mbedtls/include"/>
+  <includePath uri="studio:/sdk/util/third_party/mbedtls/sl_crypto/include"/>
+  <includePath uri="studio:/sdk/util/third_party/mbedtls/sl_crypto/src/cryptoacc/include"/>
+  <includePath uri="studio:/sdk/util/third_party/mbedtls/sl_crypto/src/cryptoacc/src"/>
+  <macroDefinition name="EFR32MG13P632F512GM48"/>
+  <macroDefinition partCompatibility=".*" languageCompatibility="c asm" name="EFR32MG13P632F512GM48" value="1"/>
+  <macroDefinition name="BTL_CONFIG_FILE" value="&quot;bootloader-configuration.h&quot;"/>
+  <macroDefinition name="BTL_SLOT_CONFIGURATION" value="&quot;bootloader-slot-configuration.h&quot;"/>
+  <macroDefinition name="SL_RAMFUNC_DISABLE" value=""/>
+  <macroDefinition name="BOOTLOADER_VERSION_MAIN_CUSTOMER" value="3"/>
+  <macroDefinition name="MBEDTLS_CONFIG_FILE" value="&quot;config-sl-crypto-all-acceleration.h&quot;"/>
+  <macroDefinition name="USE_SE_IN_IRQ" value="1"/>
+  <macroDefinition name="HAL_CONFIG" value="1"/>
+  <macroDefinition name="EMBER_AF_USE_HWCONF" value=""/>
+  <libraryFile toolchainCompatibility="com.silabs.ss.framework.project.core.noToolChain:0.0.0" uri="studio:/sdk/platform/bootloader/build/lib/libparser_efx32xg13_iar.a"/>
+  <libraryFile toolchainCompatibility="com.silabs.ss.framework.project.core.noToolChain:0.0.0" uri="studio:/sdk/platform/bootloader/build/lib/libstorage_efx32xg13_iar.a"/>
+  <libraryFile toolchainCompatibility="com.silabs.ss.framework.project.core.noToolChain:0.0.0" uri="studio:/sdk/platform/bootloader/build/lib/libbootloader_efx32xg13_iar.a"/>
+  <toolOption partCompatibility=".*" toolId="iar.arm.toolchain.linker.v5.4.0" optionId="iar.arm.toolchain.linker.option.configSymbolDefs.v6.2.0" value=""/>
+  <toolOption partCompatibility=".*" toolId="iar.arm.toolchain.linker.v5.4.0" optionId="iar.arm.toolchain.linker.option.icfFile.v5.4.0" value="${StudioSdkPath}/platform/bootloader/core/IAR/main_btl_bootloader_flash.icf"/>
+  <toolOption toolchainCompatibility=".*gcc.*" toolId="com.silabs.ide.si32.gcc.cdt.managedbuild.toolchain.exe" optionId="com.silabs.ide.si32.gcc.cdt.managedbuild.tool.gnu.c.linker.script" value="D:/DH/Lumi/Zigbee/SimplicityStudio/SimplicityStudio/v4/developer/sdks/gecko_sdk_suite/v2.7/platform/bootloader/core/GCC/main_btl_bootloader_flash.ld"/>
+  <postbuildStep>sh &quot;D:\DH\Lumi\Zigbee\SimplicityStudio\SimplicityStudio\MyWorkspace\ZB_GeckoBootloader/ZB_GeckoBootloader_postbuild.sh&quot; ${BuildArtifactFileBaseName}</postbuildStep>
+</project>

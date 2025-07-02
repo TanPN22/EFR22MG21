@@ -1,0 +1,8 @@
+10:54:17 **** Incremental Build of configuration GNU ARM v7.2.1 - Default for project Z3Coordinator ****
+make -j16 pre-build main-build 
+cmd //c 'D:\DH\Lumi\Zigbee\SimplicityStudio\SimplicityStudio\MyWorkspace\Z3Coordinator/Z3Coordinator-prebuild.bat' 'Z3Coordinator' 'D:/DH/Lumi/Zigbee/SimplicityStudio/SimplicityStudio/MyWorkspace/Z3Coordinator' '' 'D:\DH\Lumi\Zigbee\SimplicityStudio\SimplicityStudio\v4'
+make: Nothing to be done for `main-build'.
+ 
+
+10:54:24 Build Finished (took 6s.707ms)
+

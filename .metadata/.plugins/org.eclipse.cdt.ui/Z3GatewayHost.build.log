@@ -1,0 +1,9 @@
+09:48:30 **** Build of configuration (No toolchain) - None Toolchain Configuration for project Z3GatewayHost ****
+make all 
+Cannot run program "make": Launching failed
+
+Error: Program "make" not found in PATH
+PATH=[D:/DH/Lumi/Zigbee/SimplicityStudio/SimplicityStudio/v4//features/com.silabs.external.java.windows.x86_64.feature_1.8.0.92/jre/bin/server;D:/DH/Lumi/Zigbee/SimplicityStudio/SimplicityStudio/v4//features/com.silabs.external.java.windows.x86_64.feature_1.8.0.92/jre/bin;D:/DH/Lumi/Zigbee/SimplicityStudio/SimplicityStudio/v4//features/com.silabs.external.java.windows.x86_64.feature_1.8.0.92/jre/lib/amd64;C:\Python312\Scripts\;C:\Python312\;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files\dotnet\;C:\Program Files\Cloudflare\Cloudflare WARP\;C:\Program Files\Git\cmd;D:\DH\Lumi\VS code\bin;C:\Program Files (x86)\STMicroelectronics\STM32 ST-LINK Utility\ST-LINK Utility;D:\DH\Lumi\JS\;C:\ProgramData\chocolatey\bin;C:\Users\PC\AppData\Local\Microsoft\WindowsApps;;C:\Users\PC\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\PC\AppData\Roaming\npm;D:\DH\Lumi\Zigbee\SimplicityStudio\SimplicityStudio\v4;]
+
+09:48:30 Build Finished (took 46ms)
+

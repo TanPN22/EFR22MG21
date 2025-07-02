@@ -1,0 +1,324 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="SearchDialog.ScopePart">
+		<item value="0" key="scope"/>
+	</section>
+	<section name="">
+		<item value="1000" key="org.eclipse.search.resultpage.limit"/>
+	</section>
+	<section name="">
+		<item value="1000" key="org.eclipse.search.resultpage.limit"/>
+	</section>
+	<section name="TextSearchPage">
+		<item value="4" key="HISTORY_SIZE"/>
+		<item value="false" key="CASE_SENSITIVE"/>
+		<item value="false" key="REG_EX_SEARCH"/>
+		<item value="false" key="WHOLE_WORD"/>
+		<item value="false" key="SEARCH_DERIVED"/>
+		<section name="EXTENSIONS">
+			<item value="*.C, *.S, *.a, *.ant, *.asm, *.axf, *.bin, *.btconf, *.c, *.c++, *.cc, *.contract, *.cpp, *.cxx, *.dll, *.doc, *.docx, *.dylib, *.e4xmi, *.ecore, *.elf, *.emof, *.ent, *.exe, *.ffc, *.h, *.hex, *.hh, *.hpp, *.htm, *.html, *.hwconf, *.hxx, *.i, *.inc, *.isc, *.isd, *.ist, *.ld, *.lib, *.log, *.lst, *.macrodef, *.map, *.mk, *.o, *.obj, *.out, *.prefs, *.properties, *.radioconf, *.s37, *.s79, *.shtml, *.so, *.txt, *.xmi, *.xml" key="0"/>
+		</section>
+		<section name="HISTORY2">
+			<item value="true" key="ignoreCase"/>
+			<item value="0" key="scope"/>
+			<item value="false" key="isWholeWord"/>
+			<item value="ZCL_MOVE_TO_LEVEL_COMMAND_ID" key="textPattern"/>
+			<item value="false" key="isRegExSearch"/>
+			<list key="fileNamePatterns">
+				<item value="*.C"/>
+				<item value="*.S"/>
+				<item value="*.a"/>
+				<item value="*.ant"/>
+				<item value="*.asm"/>
+				<item value="*.axf"/>
+				<item value="*.bin"/>
+				<item value="*.btconf"/>
+				<item value="*.c"/>
+				<item value="*.c++"/>
+				<item value="*.cc"/>
+				<item value="*.contract"/>
+				<item value="*.cpp"/>
+				<item value="*.cxx"/>
+				<item value="*.dll"/>
+				<item value="*.doc"/>
+				<item value="*.docx"/>
+				<item value="*.dylib"/>
+				<item value="*.e4xmi"/>
+				<item value="*.ecore"/>
+				<item value="*.elf"/>
+				<item value="*.emof"/>
+				<item value="*.ent"/>
+				<item value="*.exe"/>
+				<item value="*.ffc"/>
+				<item value="*.h"/>
+				<item value="*.hex"/>
+				<item value="*.hh"/>
+				<item value="*.hpp"/>
+				<item value="*.htm"/>
+				<item value="*.html"/>
+				<item value="*.hwconf"/>
+				<item value="*.hxx"/>
+				<item value="*.i"/>
+				<item value="*.inc"/>
+				<item value="*.isc"/>
+				<item value="*.isd"/>
+				<item value="*.ist"/>
+				<item value="*.ld"/>
+				<item value="*.lib"/>
+				<item value="*.log"/>
+				<item value="*.lst"/>
+				<item value="*.macrodef"/>
+				<item value="*.map"/>
+				<item value="*.mk"/>
+				<item value="*.o"/>
+				<item value="*.obj"/>
+				<item value="*.out"/>
+				<item value="*.prefs"/>
+				<item value="*.properties"/>
+				<item value="*.radioconf"/>
+				<item value="*.s37"/>
+				<item value="*.s79"/>
+				<item value="*.shtml"/>
+				<item value="*.so"/>
+				<item value="*.txt"/>
+				<item value="*.xmi"/>
+				<item value="*.xml"/>
+			</list>
+			<list key="workingSets">
+			</list>
+		</section>
+		<section name="HISTORY3">
+			<item value="true" key="ignoreCase"/>
+			<item value="0" key="scope"/>
+			<item value="false" key="isWholeWord"/>
+			<item value="ZCL_LEVEL_CONTROL_CLUSTER_ID" key="textPattern"/>
+			<item value="false" key="isRegExSearch"/>
+			<list key="fileNamePatterns">
+				<item value="*.C"/>
+				<item value="*.S"/>
+				<item value="*.a"/>
+				<item value="*.ant"/>
+				<item value="*.asm"/>
+				<item value="*.axf"/>
+				<item value="*.bin"/>
+				<item value="*.btconf"/>
+				<item value="*.c"/>
+				<item value="*.c++"/>
+				<item value="*.cc"/>
+				<item value="*.contract"/>
+				<item value="*.cpp"/>
+				<item value="*.cxx"/>
+				<item value="*.dll"/>
+				<item value="*.doc"/>
+				<item value="*.docx"/>
+				<item value="*.dylib"/>
+				<item value="*.e4xmi"/>
+				<item value="*.ecore"/>
+				<item value="*.elf"/>
+				<item value="*.emof"/>
+				<item value="*.ent"/>
+				<item value="*.exe"/>
+				<item value="*.ffc"/>
+				<item value="*.h"/>
+				<item value="*.hex"/>
+				<item value="*.hh"/>
+				<item value="*.hpp"/>
+				<item value="*.htm"/>
+				<item value="*.html"/>
+				<item value="*.hwconf"/>
+				<item value="*.hxx"/>
+				<item value="*.i"/>
+				<item value="*.inc"/>
+				<item value="*.isc"/>
+				<item value="*.isd"/>
+				<item value="*.ist"/>
+				<item value="*.ld"/>
+				<item value="*.lib"/>
+				<item value="*.log"/>
+				<item value="*.lst"/>
+				<item value="*.macrodef"/>
+				<item value="*.map"/>
+				<item value="*.mk"/>
+				<item value="*.o"/>
+				<item value="*.obj"/>
+				<item value="*.out"/>
+				<item value="*.prefs"/>
+				<item value="*.properties"/>
+				<item value="*.radioconf"/>
+				<item value="*.s37"/>
+				<item value="*.s79"/>
+				<item value="*.shtml"/>
+				<item value="*.so"/>
+				<item value="*.txt"/>
+				<item value="*.xmi"/>
+				<item value="*.xml"/>
+			</list>
+			<list key="workingSets">
+			</list>
+		</section>
+		<section name="HISTORY0">
+			<item value="true" key="ignoreCase"/>
+			<item value="0" key="scope"/>
+			<item value="false" key="isWholeWord"/>
+			<item value="emberAfPluginNetworkSteeringCompleteCallback" key="textPattern"/>
+			<item value="false" key="isRegExSearch"/>
+			<list key="fileNamePatterns">
+				<item value="*.html"/>
+				<item value="*.S"/>
+				<item value="*.shtml"/>
+				<item value="*.doc"/>
+				<item value="*.a"/>
+				<item value="*.c"/>
+				<item value="*.emof"/>
+				<item value="*.ist"/>
+				<item value="*.macrodef"/>
+				<item value="*.h"/>
+				<item value="*.bin"/>
+				<item value="*.i"/>
+				<item value="*.btconf"/>
+				<item value="*.lib"/>
+				<item value="*.exe"/>
+				<item value="*.o"/>
+				<item value="*.axf"/>
+				<item value="*.ld"/>
+				<item value="*.hex"/>
+				<item value="*.radioconf"/>
+				<item value="*.so"/>
+				<item value="*.s37"/>
+				<item value="*.xml"/>
+				<item value="*.xmi"/>
+				<item value="*.cc"/>
+				<item value="*.s79"/>
+				<item value="*.cpp"/>
+				<item value="*.cxx"/>
+				<item value="*.ffc"/>
+				<item value="*.elf"/>
+				<item value="*.ent"/>
+				<item value="*.ecore"/>
+				<item value="*.hpp"/>
+				<item value="*.hxx"/>
+				<item value="*.ant"/>
+				<item value="*.dll"/>
+				<item value="*.prefs"/>
+				<item value="*.txt"/>
+				<item value="*.isd"/>
+				<item value="*.asm"/>
+				<item value="*.isc"/>
+				<item value="*.obj"/>
+				<item value="*.hh"/>
+				<item value="*.c++"/>
+				<item value="*.contract"/>
+				<item value="*.docx"/>
+				<item value="*.log"/>
+				<item value="*.e4xmi"/>
+				<item value="*.out"/>
+				<item value="*.lst"/>
+				<item value="*.mk"/>
+				<item value="*.dylib"/>
+				<item value="*.hwconf"/>
+				<item value="*.htm"/>
+				<item value="*.inc"/>
+				<item value="*.properties"/>
+				<item value="*.map"/>
+				<item value="*.C"/>
+			</list>
+			<list key="workingSets">
+			</list>
+		</section>
+		<section name="HISTORY1">
+			<item value="true" key="ignoreCase"/>
+			<item value="0" key="scope"/>
+			<item value="false" key="isWholeWord"/>
+			<item value="EMBER_AF_DOXYGEN_CLI_COMMAND_PLUGIN_NETWORK_CREATOR_PLUGIN_NETWORK_CREATOR_FORM" key="textPattern"/>
+			<item value="false" key="isRegExSearch"/>
+			<list key="fileNamePatterns">
+				<item value="*.C"/>
+				<item value="*.S"/>
+				<item value="*.a"/>
+				<item value="*.ant"/>
+				<item value="*.asm"/>
+				<item value="*.axf"/>
+				<item value="*.bin"/>
+				<item value="*.btconf"/>
+				<item value="*.c"/>
+				<item value="*.c++"/>
+				<item value="*.cc"/>
+				<item value="*.contract"/>
+				<item value="*.cpp"/>
+				<item value="*.cxx"/>
+				<item value="*.dll"/>
+				<item value="*.doc"/>
+				<item value="*.docx"/>
+				<item value="*.dylib"/>
+				<item value="*.e4xmi"/>
+				<item value="*.ecore"/>
+				<item value="*.elf"/>
+				<item value="*.emof"/>
+				<item value="*.ent"/>
+				<item value="*.exe"/>
+				<item value="*.ffc"/>
+				<item value="*.h"/>
+				<item value="*.hex"/>
+				<item value="*.hh"/>
+				<item value="*.hpp"/>
+				<item value="*.htm"/>
+				<item value="*.html"/>
+				<item value="*.hwconf"/>
+				<item value="*.hxx"/>
+				<item value="*.i"/>
+				<item value="*.inc"/>
+				<item value="*.isc"/>
+				<item value="*.isd"/>
+				<item value="*.ist"/>
+				<item value="*.ld"/>
+				<item value="*.lib"/>
+				<item value="*.log"/>
+				<item value="*.lst"/>
+				<item value="*.macrodef"/>
+				<item value="*.map"/>
+				<item value="*.mk"/>
+				<item value="*.o"/>
+				<item value="*.obj"/>
+				<item value="*.out"/>
+				<item value="*.prefs"/>
+				<item value="*.properties"/>
+				<item value="*.radioconf"/>
+				<item value="*.s37"/>
+				<item value="*.s79"/>
+				<item value="*.shtml"/>
+				<item value="*.so"/>
+				<item value="*.txt"/>
+				<item value="*.xmi"/>
+				<item value="*.xml"/>
+			</list>
+			<list key="workingSets">
+			</list>
+		</section>
+	</section>
+	<section name="org.eclipse.search.text.FileSearchResultPage">
+		<item value="1000" key="org.eclipse.search.resultpage.limit"/>
+	</section>
+	<section name="Search">
+		<list key="Search.processedPageIds">
+			<item value="org.eclipse.search.internal.ui.text.TextSearchPage"/>
+			<item value="org.eclipse.cdt.ui.pdomSearchPage"/>
+		</list>
+		<list key="Search.enabledPageIds">
+			<item value="org.eclipse.search.internal.ui.text.TextSearchPage"/>
+			<item value="org.eclipse.cdt.ui.pdomSearchPage"/>
+		</list>
+	</section>
+	<section name="org.eclipse.cdt.ui.pdomSearchViewPage">
+		<item value="true" key="showEnclosingDefinitions"/>
+	</section>
+	<section name="SearchDialog">
+		<item value="org.eclipse.search.internal.ui.text.TextSearchPage" key="PREVIOUS_PAGE"/>
+	</section>
+	<section name="DialogBounds_SearchDialog">
+		<item value="564" key="DIALOG_WIDTH"/>
+		<item value="1|Segoe UI|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI" key="DIALOG_FONT_NAME"/>
+		<item value="443" key="DIALOG_HEIGHT"/>
+		<item value="686" key="DIALOG_X_ORIGIN"/>
+		<item value="253" key="DIALOG_Y_ORIGIN"/>
+	</section>
+</section>
